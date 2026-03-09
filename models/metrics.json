@@ -1,0 +1,17 @@
+{
+  "category_accuracy": 1.0,
+  "priority_accuracy": 1.0,
+  "training_samples": 800,
+  "categories": [
+    "Access",
+    "Hardware",
+    "Network",
+    "Software"
+  ],
+  "priorities": [
+    "Critical",
+    "High",
+    "Low",
+    "Medium"
+  ]
+}
