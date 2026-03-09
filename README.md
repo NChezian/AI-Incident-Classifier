@@ -48,7 +48,7 @@ This project demonstrates how **NLP + ML** can automate the initial triage step,
 ### 1. Clone & Install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-incident-classifier.git
+git clone https://github.com/NChezian/ai-incident-classifier.git
 cd ai-incident-classifier
 pip install -r requirements.txt
 ```
@@ -142,7 +142,7 @@ ai-incident-classifier/
 - 🎓 M.Eng. Information Technology — SRH Hochschule Heidelberg
 - 💼 Background in ML Engineering, IT Operations & System Delivery
 - 📧 chezian.nikhil@gmail.com
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [GitHub](https://github.com/YOUR_USERNAME)
+- 🔗 [LinkedIn](https://linkedin.com/in/nikhil-chezian/) | [GitHub](https://github.com/NChezian)
 
 ---
 
